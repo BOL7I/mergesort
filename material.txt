@@ -1,0 +1,9 @@
+
+
+1- 	https://www.interviewkickstart.com/learn/iterative-merge-sort#:~:text=Iterative%20Merge%20Sort-,What%20Is%20Iterative%20Merge%	20Sort%3F,merging%20length%2D1%20sub%2Darrays
+
+2-	https://www.baeldung.com/cs/non-recursive-merge-sort
+
+3-	https://www.studytonight.com/python-programs/python-program-for-iterative-merge-sort
+
+4-	https://www.youtube.com/watch?v=xleF7ykgcHY
